@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  border-bottom: 2px solid black;
+}
+
+.brand {
+  font-size: 1.8em;
+  font-weight: 500;
+}
+

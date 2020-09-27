@@ -1,0 +1,10 @@
+.user-panel {
+  display: flex;
+  
+}
+
+.user-panel input {
+  width: 120px;
+  height: 25px;
+  margin-right: 5px;
+}
